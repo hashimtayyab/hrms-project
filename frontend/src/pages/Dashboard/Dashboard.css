@@ -1,0 +1,36 @@
+/* .dBoard a{
+    margin-left: 40px;
+    display: flex;
+    height: 100px;
+    width: 200px;;
+    border: solid 1px black;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.dBoard a:hover{
+    background-color: gainsboro;
+}
+
+
+.dBoard h2{
+    align-items: center;
+    text-align: center;
+}
+
+.linkss{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+} */
+
+
+
+.dboard-container.container{
+    margin-left: 10px;
+    margin-right: 10px;
+}

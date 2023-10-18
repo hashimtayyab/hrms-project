@@ -1,0 +1,14 @@
+.adminCard.card{
+    width: 300px;
+    height:9rem;
+    font-size: 50px;
+}
+
+
+.adminCardSub.card-subtitle.h6{
+  
+        width: -webkit-fill-available;
+        display: flex;
+        justify-content: space-evenly;
+        font-size: 40px;
+}

@@ -1,0 +1,42 @@
+.tb.table{
+    font-size: x-small;
+    /* padding: 1px; */
+    margin-bottom: 0px;
+}
+/* table tbody tr td{ */
+    /* padding: 0.2rem; */
+
+/* } */
+div.attCard.card{
+   width: 20rem;
+   /* height: 20rem; */
+}
+ tbody tr td{
+    padding: 0px;;
+ }
+
+ .tdata{
+    padding: 0px;
+ }
+
+
+ .card-subtitle.h6{
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ }
+
+
+ tr:nth-child(odd) td{
+    background-color:whitesmoke;
+  }
+  
+  /* tr:nth-child(even) td{
+    background-color: #F0F;
+  } */
+
+  tr td{
+   font-size: 12px;
+}
+ 

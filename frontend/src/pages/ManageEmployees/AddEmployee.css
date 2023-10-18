@@ -1,0 +1,16 @@
+input{
+    width: 400px;
+}
+
+.addEmpForm form{
+    display: flex;
+    margin-left: 100px;
+}
+
+.addEmpForm form div{
+    margin-left: 100px;
+}
+
+/* .choose-file{
+    color: aquamarine;
+} */
